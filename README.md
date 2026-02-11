@@ -63,4 +63,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 >>>>>>> 99ab783d2ebf8466e7e739d66cc29c4a84b46515
 
 -   Nama : Iqbal Kamali Alpan
-    Nim  : E41241525
+    NIM  : E41241525
+
+    Nama : Muhammad Dimas Aji Pangestu
+    NIM  : E41241612
