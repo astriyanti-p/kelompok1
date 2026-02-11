@@ -14,3 +14,10 @@ Route::get('/tes-push', function () {
 Route::get('/laporan-aku', function () {
     return view('kata-kata');
 });
+
+oute::get('/tes-push', function () {
+    return "<h1>Bismillah </h1><p>semoga kuat sampai wisuda .</p>";
+});
+Route::get('/laporan-aku', function () {
+    return view('kata-kata');
+});
